@@ -6,3 +6,5 @@
 - 💬 Ask me about CODING
 - 📫 How to reach me: hello@dickode.net
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=issadicko)](https://github.com/anuraghazra/github-readme-stats)
